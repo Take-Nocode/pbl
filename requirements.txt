@@ -1,2 +1,2 @@
-plyer
-flas
+plyer >= 2.0
+flask >= 2.0
